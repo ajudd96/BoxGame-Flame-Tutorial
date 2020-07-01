@@ -1,16 +1,10 @@
 # boxgame
 
-A new Flutter project.
+Boxgame follows the [Create a Mobile Game with Flutter and Flame - Beginner Tutorial](https://jap.alekhin.io/create-mobile-game-flutter-flame-beginner-tutorial) which goes through the basic concept behind creating games using Flame and Flutter.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Steps of the tutorial include:
+# Creating a Flutter application
+# Installing Flame
+# Setting up a Game loop
+# Drawing a Screen and Object
+# Handling Input and Setting WIN Condition
